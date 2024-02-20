@@ -6,7 +6,7 @@ build an appropriate Machine Learning Model that will help various Zomato Restau
 
  # Project is handled in a structured way with modular coding.
  
- ## Below is the work flow of this project
+ ## Below is the work flow of this project work
  
  ![Picture1](https://user-images.githubusercontent.com/79159314/142645169-beeebd51-c920-4747-8d53-db5003d6e1a3.gif)
  
